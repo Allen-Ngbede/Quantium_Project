@@ -101,7 +101,7 @@ plt.show()
 
 ### Results
 #### Visualization of trend of transaction over time
-![image](images\transaction_trend.png)
+![image](images/transaction_trend.png)
 
 ### Insights
 - Pre-Christmas Surge: The sharp peak in November/December shows a significant increase in transactions, likely driven by holiday shopping.
@@ -135,7 +135,7 @@ plt.show()
 ```
 ### Results
 #### Visualization of trend of transaction in December
-![image](images\december_trans.png)
+![image](images/december_trans.png)
 
 ### Insights
 - Overall Increase in Transactions: Throughout December, there is a noticeable upward trend in the number of transactions, peaking towards the end of the month. This suggests a growing level of customer activity as the holiday season progresses.
@@ -167,7 +167,7 @@ plt.show()
 ```
 ### Results
 #### Visualization of trend of transaction in December
-![image](images\trans_by_pack_size.png)
+![image](images/trans_by_pack_size.png)
 
 ### Insights
 - Dominant Pack Size: The 170g pack size is the clear leader in terms of transaction volume, indicating strong customer preference. This highlights the importance of focusing production and inventory management on this pack size to meet demand and ensure product availability.
