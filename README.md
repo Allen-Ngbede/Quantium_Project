@@ -198,7 +198,7 @@ plt.show()
 
 ### Results
 #### Visualization of top 5 brands
-![image](images\top_5_brands.png)
+![image](images/top_5_brands.png)
 
 ### Insights
 - Dominant Brand: "Kettle" is the clear leader in sales, with a significantly higher transaction volume compared to other brands. This reflects strong customer preference and brand loyalty toward Kettle products.
@@ -231,7 +231,7 @@ plt.show()
 ```
 ### Results
 #### Visualization of top 10 products with highest sales
-![image](images\top_10_products.png)
+![image](images/top_10_products.png)
 
 ### Insights:
 The analysis revealed Kettle Mozzarella, Basil & Pesto (175g) as the highest-selling product, followed closely by Kettle Tortilla Chips in Honey & Jalapeño Chili flavor. Cobs Popcorn variants (both Sea Salt and Sweet Chili & Sour Cream) secured strong positions in the top 4, showing significant customer preference.
@@ -274,7 +274,7 @@ plt.show()
 ```
 ### Results
 #### Visualization of highest chips spender based on lifesatge amd premium
-![image](images\top_10_products.png)
+![image](images/top_10_products.png)
 
 ### Insights:
 The analysis revealed that OLDER FAMILIES emerge as the highest spenders on chips, particularly those in the budget category, with total sales reaching approximately 160,000 dollars. Following closely are YOUNG SINGLES/COUPLES and RETIREES in the mainstream segment, both showing strong sales around 145,000 dollars. YOUNG FAMILIES and OLDER SINGLES/COUPLES demonstrate relatively lower spending patterns, but still contribute significantly to overall sales. Notably, mainstream customers show consistent high spending across several lifestages, particularly in the young to retired age groups.
@@ -311,7 +311,7 @@ plt.show()
 ```
 ### Results
 #### Visualization of top 5 customers
-![image](images\top_5_customers.png)
+![image](images/top_5_customers.png)
 
 ### Insights:
 From the data analysis, I identified the top 5 chip-purchasing customers by their loyalty card numbers, ordered by total quantity purchased. Notably, these customers show significantly higher purchase volumes compared to the average customer, indicating strong brand loyalty or potential business purchases. The premium customer classification of these top purchasers gives us valuable insights into whether high-volume buying correlates with specific customer segments.
@@ -345,7 +345,7 @@ plt.show()
 ```
 ### Results
 #### Visualization of average chip price by segment
-![image](images\avg_chip_price.png)
+![image](images/avg_chip_price.png)
 
 ### Insights
 - Premium and Budget customers spend nearly the same on average, slightly more than Mainstream customers.
@@ -378,7 +378,7 @@ plt.show()
 ```
 ### Results
 #### Visualization of rands bought by mainstream and young singles/couples
-![image](images\mainstream_brand.png)
+![image](images/mainstream_brand.png)
 
 ### Insights
 - Top-performing brands: The brands with the highest lift are Dorito, Tyrrells, Twisties, and Doritos, indicating their strong popularity among Mainstream shoppers and Young Singles/Couples.
@@ -422,7 +422,8 @@ plt.show()
 ```
 ### Results
 #### Visualization of preferred pack
-![image](images\preferred_pack.png)
+![image](images/preferred_pack.png)
+
 
 ### Insights:
 
